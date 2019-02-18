@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+#Vitaly Lazarchuk 
+#HTML CSS Basics: https://htmlacademy.ru/profile/id550417
